@@ -1,0 +1,15 @@
+{
+  "name": "x24-2023-uni",
+  "version": "1.0.0",
+  "description": "uni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.extentia.com/x24-2023-uni/x24-2023-uni.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

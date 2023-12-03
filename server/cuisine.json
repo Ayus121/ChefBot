@@ -1,0 +1,61 @@
+{
+    "Cuisine": [
+        {
+            "id": 1,
+            "name": "Italian",
+            "ingredients": [
+                {
+                    "name": "Spaghetti"
+                },
+                {
+                    "name": "Tomato"
+                },
+                {
+                    "name": "Onion"
+                },
+                {
+                    "name": "Garlic"
+                },
+                {
+                    "name": "Basil"
+                },
+                {
+                    "name": "Olive Oil"
+                },
+                {
+                    "name": "Salt"
+                },
+                {
+                    "name": "Pepper"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Japanese",
+            "ingredients": [
+                {
+                    "name": "Rice"
+                },
+                {
+                    "name": "Soy Sauce"
+                },
+                {
+                    "name": "Sake"
+                },
+                {
+                    "name": "Mirin"
+                },
+                {
+                    "name": "Sugar"
+                },
+                {
+                    "name": "Salt"
+                },
+                {
+                    "name": "Pepper"
+                }
+            ]
+        }
+    ]
+}

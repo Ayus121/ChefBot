@@ -1,0 +1,1841 @@
+{ 
+
+  "recipes": [ 
+
+    { 
+
+      "id": "r1", 
+
+      "name": "Chai", 
+
+      "cuisine": "Indian", 
+
+      "description": "A traditional Indian spiced tea.", 
+
+      "instructions": [ 
+
+        "Boil water with tea leaves and spices.", 
+
+        "Add milk and sugar.", 
+
+        "Strain and serve hot." 
+
+      ], 
+
+      "servings": 2, 
+
+      "prep_time": "10 minutes", 
+
+      "image_url": "https://example.com/chai.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i1", 
+
+          "name": "Tea leaves", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹5.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹2.00" 
+
+        }, 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i4", 
+
+          "name": "Sugar", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹5.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r2", 
+
+      "name": "Milk Cake", 
+
+      "cuisine": "Dessert", 
+
+      "description": "A sweet and milky dessert.", 
+
+      "instructions": [ 
+
+        "Boil milk with sugar until it thickens.", 
+
+        "Set in a mold and cool.", 
+
+        "Cut into pieces and serve." 
+
+      ], 
+
+      "servings": 8, 
+
+      "prep_time": "30 minutes", 
+
+      "image_url": "https://example.com/milk_cake.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 liter", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i4", 
+
+          "name": "Sugar", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹50.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r3", 
+
+      "name": "Pasta", 
+
+      "cuisine": "Italian", 
+
+      "description": "Classic pasta with tomato sauce.", 
+
+      "instructions": [ 
+
+        "Boil pasta until al dente.", 
+
+        "Sauté garlic and tomatoes for sauce.", 
+
+        "Combine pasta and sauce, and serve." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "20 minutes", 
+
+      "image_url": "https://example.com/pasta.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i5", 
+
+          "name": "Pasta", 
+
+          "quantity": "250 grams", 
+
+          "price": "₹30.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Garlic", 
+
+          "quantity": "2 cloves", 
+
+          "price": "₹10.00" 
+
+        }, 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "4", 
+
+          "price": "₹25.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r4", 
+
+      "name": "Fish Curry", 
+
+      "cuisine": "Indian", 
+
+      "description": "Spicy and flavorful fish curry.", 
+
+      "instructions": [ 
+
+        "Marinate fish with spices.", 
+
+        "Cook in a curry base until done.", 
+
+        "Serve hot with rice." 
+
+      ], 
+
+      "servings": 6, 
+
+      "prep_time": "25 minutes", 
+
+      "image_url": "https://example.com/fish_curry.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Fish fillets", 
+
+          "quantity": "500 grams", 
+
+          "price": "₹150.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹15.00" 
+
+        }, 
+
+        { 
+
+          "id": "i9", 
+
+          "name": "Curry base", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹30.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r5", 
+
+      "name": "Aloo Paratha", 
+
+      "cuisine": "Indian", 
+
+      "description": "Stuffed flatbread with spiced potatoes.", 
+
+      "instructions": [ 
+
+        "Prepare dough and stuffing separately.", 
+
+        "Stuff and roll out parathas.", 
+
+        "Cook on a griddle until golden." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "30 minutes", 
+
+      "image_url": "https://example.com/aloo_paratha.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i10", 
+
+          "name": "Whole wheat flour", 
+
+          "quantity": "2 cups", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i11", 
+
+          "name": "Potatoes", 
+
+          "quantity": "4, boiled and mashed", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Spices (cumin, coriander)", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹10.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r6", 
+
+      "name": "Cake", 
+
+      "cuisine": "Dessert", 
+
+      "description": "A classic vanilla cake with frosting.", 
+
+      "instructions": [ 
+
+        "Mix flour, sugar, and baking powder.", 
+
+        "Add eggs, milk, and vanilla.", 
+
+        "Bake until golden and frost." 
+
+      ], 
+
+      "servings": 8, 
+
+      "prep_time": "45 minutes", 
+
+      "image_url": "https://example.com/cake.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i12", 
+
+          "name": "All-purpose flour", 
+
+          "quantity": "2 cups", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i4", 
+
+          "name": "Sugar", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹50.00" 
+
+        }, 
+
+        { 
+
+          "id": "i14", 
+
+          "name": "Eggs", 
+
+          "quantity": "4", 
+
+          "price": "₹75.00" 
+
+        }, 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i16", 
+
+          "name": "Vanilla extract", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹125.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r7", 
+
+      "name": "Vada Pav", 
+
+      "cuisine": "Indian", 
+
+      "description": "A popular Indian street food with spicy potato fritters.", 
+
+      "instructions": [ 
+
+        "Make a spiced potato mixture.", 
+
+        "Shape into fritters and deep fry.", 
+
+        "Serve in a bun with chutney." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "40 minutes", 
+
+      "image_url": "https://example.com/vada_pav.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i11", 
+
+          "name": "Potatoes", 
+
+          "quantity": "4, boiled and mashed", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i17", 
+
+          "name": "Bun", 
+
+          "quantity": "4", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i18", 
+
+          "name": "Chutney", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹40.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r8", 
+
+      "name": "Butter Chicken", 
+
+      "cuisine": "Indian", 
+
+      "description": "Creamy and flavorful chicken curry.", 
+
+      "instructions": [ 
+
+        "Marinate chicken with spices and yogurt.", 
+
+        "Cook in a tomato and cream sauce until done.", 
+
+        "Garnish with fresh coriander and serve hot." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "40 minutes", 
+
+      "image_url": "https://example.com/butter_chicken.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Chicken pieces", 
+
+          "quantity": "800 grams", 
+
+          "price": "₹750.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i9", 
+
+          "name": "Tomato puree", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i19", 
+
+          "name": "Cream", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹50.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r9", 
+
+      "name": "Kheer", 
+
+      "cuisine": "Dessert", 
+
+      "description": "Indian rice pudding with cardamom and nuts.", 
+
+      "instructions": [ 
+
+        "Simmer rice in milk until cooked.", 
+
+        "Add sugar, cardamom, and nuts.", 
+
+        "Chill and serve." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "50 minutes", 
+
+      "image_url": "https://example.com/kheer.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 liter", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i20", 
+
+          "name": "Rice", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i4", 
+
+          "name": "Sugar", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹25.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices (cardamom, nuts)", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹15.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r10", 
+
+      "name": "Dal Makhani", 
+
+      "cuisine": "Indian", 
+
+      "description": "Creamy and hearty black lentil curry.", 
+
+      "instructions": [ 
+
+        "Soak black lentils and kidney beans overnight.", 
+
+        "Cook until tender in a rich tomato and cream sauce.", 
+
+        "Temper with spices and serve hot with rice or naan." 
+
+      ], 
+
+      "servings": 6, 
+
+      "prep_time": "8 hours (including soaking)", 
+
+      "image_url": "https://example.com/dal_makhani.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i22", 
+
+          "name": "Black lentils", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹63.00" 
+
+        }, 
+
+        { 
+
+          "id": "i55", 
+
+          "name": "Kidney beans", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹37.50" 
+
+        }, 
+
+        { 
+
+          "id": "i9", 
+
+          "name": "Tomato puree", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹50.00" 
+
+        }, 
+
+        { 
+
+          "id": "i19", 
+
+          "name": "Cream", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹31.25" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices (cumin, coriander)", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹25.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r11", 
+
+      "name": "Paneer Tikka Masala", 
+
+      "cuisine": "Indian", 
+
+      "description": "Spicy and creamy paneer dish with aromatic spices.", 
+
+      "instructions": [ 
+
+        "Marinate paneer cubes in yogurt and spices.", 
+
+        "Grill until golden and charred.", 
+
+        "Simmer in a tomato and cream sauce.", 
+
+        "Garnish with fresh coriander and serve hot." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "45 minutes", 
+
+      "image_url": "https://example.com/paneer_tikka_masala.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i21", 
+
+          "name": "Paneer cubes", 
+
+          "quantity": "400 grams", 
+
+          "price": "₹625.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices (garam masala, turmeric)", 
+
+          "quantity": "2 teaspoons", 
+
+          "price": "₹31.25" 
+
+        }, 
+
+        { 
+
+          "id": "i9", 
+
+          "name": "Tomato puree", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹50.00" 
+
+        }, 
+
+        { 
+
+          "id": "i19", 
+
+          "name": "Cream", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹31.25" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r12", 
+
+      "name": "Spaghetti Bolognese", 
+
+      "cuisine": "Italian", 
+
+      "description": "Classic Italian pasta with meat sauce.", 
+
+      "instructions": [ 
+
+        "Cook spaghetti according to package instructions.", 
+
+        "Sauté garlic, tomatoes, and ground meat for the sauce.", 
+
+        "Simmer sauce and serve over cooked spaghetti." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "25 minutes", 
+
+      "image_url": "https://example.com/spaghetti_bolognese.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i5", 
+
+          "name": "Pasta", 
+
+          "quantity": "300 grams", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Garlic", 
+
+          "quantity": "2 cloves", 
+
+          "price": "₹10.00" 
+
+        }, 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "4", 
+
+          "price": "₹25.00" 
+
+        }, 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Fish fillets", 
+
+          "quantity": "150 grams", 
+
+          "price": "₹300.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r13", 
+
+      "name": "Margherita Pizza", 
+
+      "cuisine": "Italian", 
+
+      "description": "Simple and classic pizza with tomato, mozzarella, and basil.", 
+
+      "instructions": [ 
+
+        "Roll out pizza dough and spread tomato sauce.", 
+
+        "Top with mozzarella and fresh basil.", 
+
+        "Bake until crust is golden and cheese is melted." 
+
+      ], 
+
+      "servings": 2, 
+
+      "prep_time": "30 minutes", 
+
+      "image_url": "https://example.com/margherita_pizza.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i12", 
+
+          "name": "All-purpose flour", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹20.00" 
+
+        }, 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i18", 
+
+          "name": "Chutney", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i19", 
+
+          "name": "Cream", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹150.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r14", 
+
+      "name": "Risotto ai Funghi", 
+
+      "cuisine": "Italian", 
+
+      "description": "Creamy mushroom risotto with Parmesan cheese.", 
+
+      "instructions": [ 
+
+        "Sauté mushrooms, garlic, and onions.", 
+
+        "Add Arborio rice and cook with broth until creamy.", 
+
+        "Stir in Parmesan cheese and serve hot." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "35 minutes", 
+
+      "image_url": "https://example.com/risotto_ai_funghi.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i22", 
+
+          "name": "Black lentils", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹150.00" 
+
+        }, 
+
+        { 
+
+          "id": "i23", 
+
+          "name": "Kidney beans", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹90.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r15", 
+
+      "name": "Chicken Alfredo Pasta", 
+
+      "cuisine": "Italian", 
+
+      "description": "Creamy Alfredo pasta with grilled chicken.", 
+
+      "instructions": [ 
+
+        "Cook pasta until al dente.", 
+
+        "Grill chicken and set aside.", 
+
+        "Prepare Alfredo sauce and toss with cooked pasta and grilled chicken." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "30 minutes", 
+
+      "image_url": "https://example.com/chicken_alfredo_pasta.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i5", 
+
+          "name": "Pasta", 
+
+          "quantity": "300 grams", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Fish fillets", 
+
+          "quantity": "150 grams", 
+
+          "price": "₹300.00" 
+
+        }, 
+
+        { 
+
+          "id": "i19", 
+
+          "name": "Cream", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹150.00" 
+
+        }, 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Chicken pieces", 
+
+          "quantity": "200 grams", 
+
+          "price": "₹200.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r16", 
+
+      "name": "Caprese Salad", 
+
+      "cuisine": "Italian", 
+
+      "description": "Fresh salad with tomatoes, mozzarella, and basil.", 
+
+      "instructions": [ 
+
+        "Slice tomatoes and mozzarella.", 
+
+        "Arrange on a plate with fresh basil leaves.", 
+
+        "Drizzle with balsamic glaze and olive oil." 
+
+      ], 
+
+      "servings": 2, 
+
+      "prep_time": "15 minutes", 
+
+      "image_url": "https://example.com/caprese_salad.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i21", 
+
+          "name": "Paneer cubes", 
+
+          "quantity": "150 grams", 
+
+          "price": "₹300.00" 
+
+        }, 
+
+        { 
+
+          "id": "i16", 
+
+          "name": "Vanilla extract", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹150.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r17", 
+
+      "name": "Pesto Pasta", 
+
+      "cuisine": "Italian", 
+
+      "description": "Pasta with fresh basil pesto sauce.", 
+
+      "instructions": [ 
+
+        "Blend basil, garlic, pine nuts, and Parmesan cheese for pesto.", 
+
+        "Cook pasta and toss with pesto sauce.", 
+
+        "Garnish with extra Parmesan and pine nuts." 
+
+      ], 
+
+      "servings": 3, 
+
+      "prep_time": "20 minutes", 
+
+      "image_url": "https://example.com/pesto_pasta.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i5", 
+
+          "name": "Pasta", 
+
+          "quantity": "250 grams", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Garlic", 
+
+          "quantity": "1 clove", 
+
+          "price": "₹30.00" 
+
+        }, 
+
+        { 
+
+          "id": "i12", 
+
+          "name": "All-purpose flour", 
+
+          "quantity": "1/4 cup", 
+
+          "price": "₹120.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r18", 
+
+      "name": "Minestrone Soup", 
+
+      "cuisine": "Italian", 
+
+      "description": "Hearty vegetable soup with pasta.", 
+
+      "instructions": [ 
+
+        "Sauté onions, carrots, and celery in olive oil.", 
+
+        "Add broth, tomatoes, and pasta.", 
+
+        "Simmer until vegetables and pasta are tender." 
+
+      ], 
+
+      "servings": 6, 
+
+      "prep_time": "40 minutes", 
+
+      "image_url": "https://example.com/minestrone_soup.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i11", 
+
+          "name": "Potatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i23", 
+
+          "name": "Kidney beans", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹90.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r19", 
+
+      "name": "Tiramisu", 
+
+      "cuisine": "Dessert", 
+
+      "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone cream.", 
+
+      "instructions": [ 
+
+        "Dip ladyfingers in coffee and layer in a dish.", 
+
+        "Whip mascarpone, sugar, and vanilla into a cream.", 
+
+        "Layer cream over ladyfingers and refrigerate." 
+
+      ], 
+
+      "servings": 8, 
+
+      "prep_time": "25 minutes", 
+
+      "image_url": "https://example.com/tiramisu.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i14", 
+
+          "name": "Eggs", 
+
+          "quantity": "4", 
+
+          "price": "₹180.00" 
+
+        }, 
+
+        { 
+
+          "id": "i16", 
+
+          "name": "Vanilla extract", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹150.00" 
+
+        }, 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹40.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r20", 
+
+      "name": "Chicken Piccata", 
+
+      "cuisine": "Italian", 
+
+      "description": "Sautéed chicken in a lemon and caper sauce.", 
+
+      "instructions": [ 
+
+        "Dredge chicken in flour and sauté until golden.", 
+
+        "Make a sauce with lemon, capers, and broth.", 
+
+        "Pour sauce over chicken and serve." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "35 minutes", 
+
+      "image_url": "https://example.com/chicken_piccata.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Chicken pieces", 
+
+          "quantity": "400 grams", 
+
+          "price": "₹200.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹60.00" 
+
+        }, 
+
+        { 
+
+          "id": "i20", 
+
+          "name": "Rice", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹90.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r21", 
+
+      "name": "Sushi Rolls", 
+
+      "cuisine": "Japanese", 
+
+      "description": "Assorted sushi rolls with fresh fish and vegetables.", 
+
+      "instructions": [ 
+
+        "Prepare sushi rice and nori sheets.", 
+
+        "Layer rice, fish, and vegetables on nori and roll tightly.", 
+
+        "Slice into bite-sized pieces and serve with soy sauce and wasabi." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "45 minutes", 
+
+      "image_url": "https://example.com/sushi_rolls.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Fish fillets", 
+
+          "quantity": "200 grams", 
+
+          "price": "₹300.00" 
+
+        }, 
+
+        { 
+
+          "id": "i20", 
+
+          "name": "Rice", 
+
+          "quantity": "2 cups", 
+
+          "price": "₹90.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Garlic", 
+
+          "quantity": "1 clove", 
+
+          "price": "₹30.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r22", 
+
+      "name": "Miso Soup", 
+
+      "cuisine": "Japanese", 
+
+      "description": "Traditional Japanese soup with miso paste and seaweed.", 
+
+      "instructions": [ 
+
+        "Boil water and add miso paste.", 
+
+        "Add tofu, seaweed, and green onions.", 
+
+        "Simmer until flavors meld, and serve hot." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "20 minutes", 
+
+      "image_url": "https://example.com/miso_soup.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i23", 
+
+          "name": "Kidney beans", 
+
+          "quantity": "1/2 cup", 
+
+          "price": "₹90.00" 
+
+        }, 
+
+        { 
+
+          "id": "i17", 
+
+          "name": "Bun", 
+
+          "quantity": "2", 
+
+          "price": "₹60.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r23", 
+
+      "name": "Chicken Teriyaki", 
+
+      "cuisine": "Japanese", 
+
+      "description": "Grilled chicken glazed with sweet teriyaki sauce.", 
+
+      "instructions": [ 
+
+        "Marinate chicken in teriyaki sauce.", 
+
+        "Grill until fully cooked, brushing with more sauce.", 
+
+        "Serve hot with steamed rice." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "30 minutes", 
+
+      "image_url": "https://example.com/chicken_teriyaki.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i8", 
+
+          "name": "Chicken pieces", 
+
+          "quantity": "400 grams", 
+
+          "price": "₹200.00" 
+
+        }, 
+
+        { 
+
+          "id": "i16", 
+
+          "name": "Vanilla extract", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹150.00" 
+
+        }, 
+
+        { 
+
+          "id": "i20", 
+
+          "name": "Rice", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹90.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r24", 
+
+      "name": "Tempura", 
+
+      "cuisine": "Japanese", 
+
+      "description": "Light and crispy battered seafood and vegetables.", 
+
+      "instructions": [ 
+
+        "Prepare tempura batter with flour, egg, and ice-cold water.", 
+
+        "Dip seafood and vegetables in batter and deep fry until golden.", 
+
+        "Serve hot with tempura sauce." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "40 minutes", 
+
+      "image_url": "https://example.com/tempura.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i7", 
+
+          "name": "Tomatoes", 
+
+          "quantity": "2", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i14", 
+
+          "name": "Eggs", 
+
+          "quantity": "2", 
+
+          "price": "₹180.00" 
+
+        }, 
+
+        { 
+
+          "id": "i2", 
+
+          "name": "Spices", 
+
+          "quantity": "1 teaspoon", 
+
+          "price": "₹60.00" 
+
+        } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "id": "r25", 
+
+      "name": "Ramen Noodles", 
+
+      "cuisine": "Japanese", 
+
+      "description": "Japanese noodle soup with savory broth and toppings.", 
+
+      "instructions": [ 
+
+        "Cook ramen noodles according to package instructions.", 
+
+        "Prepare broth with soy sauce, miso, and ginger.", 
+
+        "Top noodles with broth, sliced vegetables, and a boiled egg." 
+
+      ], 
+
+      "servings": 4, 
+
+      "prep_time": "25 minutes", 
+
+      "image_url": "https://example.com/ramen_noodles.jpg", 
+
+      "ingredients": [ 
+
+        { 
+
+          "id": "i5", 
+
+          "name": "Pasta", 
+
+          "quantity": "300 grams", 
+
+          "price": "₹120.00" 
+
+        }, 
+
+        { 
+
+          "id": "i3", 
+
+          "name": "Milk", 
+
+          "quantity": "1 cup", 
+
+          "price": "₹40.00" 
+
+        }, 
+
+        { 
+
+          "id": "i6", 
+
+          "name": "Garlic", 
+
+          "quantity": "1 clove", 
+
+          "price": "₹30.00" 
+
+        } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
