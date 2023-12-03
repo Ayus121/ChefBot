@@ -1,0 +1,22 @@
+/* .caraousel{
+    margin-top: 13rem;
+} */
+.heading{
+   margin-top: 2rem;
+   text-align: center;
+   font-size: 2rem ;
+   color: rgb(255, 134, 36);
+   font-weight: bold;
+}
+.btn{
+    text-align: center;
+    margin-left: 5.4rem;
+    margin-top: 2rem;
+    color: white;
+    font-weight: bold;
+    background:rgb(255, 134, 36);
+    border: none;
+    padding: 18px 30px;
+    font-size: 1rem;
+    border-radius: 10px;
+}

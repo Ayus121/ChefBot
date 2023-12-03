@@ -1,0 +1,99 @@
+/* RecipeDetailsPage.css */
+.ingredients-detail-container {
+    width: 80%;
+    margin: auto;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.ingredients-detail-container h1 {
+    font-size: 2.5em;
+    color: #4e4e4e;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.ingredients-detail-container p {
+    font-size: 1.2em;
+    color: #6b6b6b;
+    line-height: 1.6;
+}
+
+.ingredients-detail-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
+} 
+
+.ingredients-detail-container .ingredients {
+    font-weight: bold;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-left: 5px solid #5cb85c;
+}
+
+.ingredients-detail-container .ingredients span {
+    color: #5cb85c;
+}
+
+.ingredients-detail-container .about {
+    color: var(--Text, #1C1C1C);
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.ingredients-detail-container .aboutDetails {
+    color: rgba(27, 30, 36, 0.50);
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 138.462% */
+    letter-spacing: -0.3px;
+}
+
+.ingredients-detail-container .aboutDetails span {
+    color: #5cb85c;
+}
+
+.ingredients-detail-container .instructions {
+    font-size: 1em; 
+    color: #37474F;
+    line-height: 1.8em; 
+    margin-bottom: 40px; 
+    padding-left: 40px;
+  }
+  
+  .ingredients-detail-container .instructions ol {
+    padding-left: 80px;
+  }
+  
+  .ingredients-detail-container .instructions ol li {
+    margin-bottom: 20px;    
+  }
+  .ingredient-details table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: .5em;
+    overflow: hidden;
+  }
+  .ingredient-details th, .ingredient-details td {
+    padding: .5em;
+    border: none;
+  }
+  .ingredient-details th {
+    background: #f0f0f0;
+  }
+  .ingredient-details td {
+    background: #fafafa;
+  }
+  

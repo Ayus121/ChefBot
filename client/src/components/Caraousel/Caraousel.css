@@ -1,0 +1,67 @@
+/* Carousel.css */
+
+/* Container styling */
+.carousel-container {
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+
+  }
+  
+  /* Slide styling */
+  .carousel-item {
+    text-align: center;
+    width: 60%;
+    height: 200px;
+    /* background: red; */
+  }
+  
+  /* Image styling */
+  .carousel-item img {
+    text-align: center;
+    margin-left: 4.2rem;
+    width: 50%;
+    height: 150px;
+    max-width: 450px;
+    border-radius: 50%;
+  }
+  
+  /* Name styling */
+  .image-name {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+  }
+  /* Arrow button styling */
+.arrow-button {
+    background-color: rgb(255, 134, 36);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .arrow-button:hover {
+    background-color: rgb(255, 134, 36);
+  }
+  
+  .prev {
+    margin-right: 10px;
+  }
+  
+  .next {
+    margin-left: 10px;
+  }
+  @media screen and (max-width: 768px) {
+    .carousel-container {
+      width: 90%;
+    }
+  
+    .arrow-button {
+      font-size: 14px;
+    }
+}

@@ -1,0 +1,21 @@
+.chatbot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .chatbot-button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 0.8em;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .chat-interface {
+    position: absolute;
+    bottom: 70px;
+    /* Your additional styles for the chat interface */
+  }
+  
